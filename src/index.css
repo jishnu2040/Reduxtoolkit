@@ -1,0 +1,23 @@
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", "Helvetica", sans-serif;
+  background-color: rgb(29, 47, 79);
+}
+
+.container {
+  max-width: 1400px;
+  width: 100%;
+  margin: auto;
+  padding: 0 20px;
+  text-align: left; /* Ensure text is left-aligned */
+}
+
+h1, p {
+  text-align: left; /* Ensure individual elements are left-aligned if needed */
+}

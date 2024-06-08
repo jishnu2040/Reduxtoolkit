@@ -1,0 +1,20 @@
+[
+  {
+      "id": 1,
+      "productname": "iPhone 14 Pro",
+      "image": "https://img.freepik.com/premium-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?w=826",
+      "title": "Apple iPhone 14 Pro with A16 Bionic chip"
+  },
+  {
+      "id": 2,
+      "productname": "Samsung Galaxy S23",
+      "image": "https://img.freepik.com/free-photo/beautiful-rendering-dating-app-concept_23-2149316423.jpg?w=996&t=st=1717430045~exp=1717430645~hmac=decdef27a2518219230e9ea33619cb33d994c37a901f13f332bb0c1eddd5b1fe",
+      "title": "Samsung Galaxy S23 with Exynos 2200"
+  },
+  {
+      "id": 3,
+      "productname": "Google Pixel 7",
+      "image": "https://img.freepik.com/free-photo/marketing-creative-collage-with-phone_23-2149379900.jpg?w=996&t=st=1717430060~exp=1717430660~hmac=0f51f55486d19cddc54d0736e3d8459be6f94985200774c926779abbb71dd282",
+      "title": "Google Pixel 7 with Google Tensor G2"
+  }
+]
